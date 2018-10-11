@@ -1,6 +1,6 @@
 # Full Stack Development Test - Week Two
 
-This assessment tests your understanding of higher order functions, classes, testing, and list-type data structures.
+This assessment tests your understanding of classes, testing, and list-type data structures.
 
 ## Guidelines
   - Do not use any presentations from the class or any notes you have taken.
@@ -25,23 +25,19 @@ Give yourself a grade for each question. Explain why you gave yourself that grad
 |   1    | I am struggling with this question. |
 |   0    | I did not attempt this question (explain why) |
 
-### 1. Palindrome
+### 1. Create and extend classes
 - Grade: 
 - Explanation:
 
-### 2. Add grid items
+### 2. Create tests for classes
 - Grade: 
 - Explanation:
 
-### 3. Create file name string
+### 3. Create a method for doubly linked list
 - Grade: 
 - Explanation:
 
-### 4. Create chessboard
-- Grade: 
-- Explanation:
-
-### 5. Check valid parentheses
+### 4. Check matching parentheses
 - Grade: 
 - Explanation:
 
