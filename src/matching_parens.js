@@ -11,11 +11,11 @@ An input string is valid if:
 - Open brackets are closed by the same type of brackets.
 - Open brackets are closed in the correct order.
 
-Note:
-- An empty string should return true.
-
-Hint: to solve this problem, you will want to create 
-and use a 
+Hint: You'll want to draw this out!
+Use the array methods you would use for a
+stack data structure to solve this problem. 
+As you loop through the string, add and remove items
+from the stack. Good luck!
 ------------------*/
 
 function validParens(str) {
@@ -24,6 +24,8 @@ function validParens(str) {
     "(": ")",
     "{": "}"
   }
-  // your code here
 
 }
+
+module.exports = validParens;
+

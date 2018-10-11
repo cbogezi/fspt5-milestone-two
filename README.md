@@ -33,7 +33,7 @@ Give yourself a grade for each question. Explain why you gave yourself that grad
 - Grade: 
 - Explanation:
 
-### 3. Create a method for doubly linked list
+### 3. Create the reverse linked list method
 - Grade: 
 - Explanation:
 
