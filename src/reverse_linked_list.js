@@ -56,14 +56,17 @@ class LinkedList {
   }
 
   reverseList() {
-    // store the reference to the previous head
-    // move the last item to the front of the list
-    // connect it to the previous head
-    let previousHead = this.head;
-    this.head = this.removeFromTail();
-    this.head.next = previousHead;
+    // create a variable to store the reference to this.head
+    // remove the tail, and reassign that node to this.head
+    // connect this.head to the previous head that you stored
 
-    // your code here
+    // create a variable (refNode) to keep track of the the location of where you will insert the next node (start by assigning it to this.head)
+
+    // while the previous head value does not equal the tail value
+      // remove the tail node
+      // insert it after the refNode
+      // reassign the refNode to the node you just added
+
   }
 
 }

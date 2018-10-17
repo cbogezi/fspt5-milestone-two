@@ -15,3 +15,8 @@ extends the Building class. Test it!
 5. Add one additional method (your choice) and test it.
 ------------------*/
 
+const Building = require('./building');
+
+class Apartment extends Building {}
+
+module.exports = Apartment;

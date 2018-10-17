@@ -12,3 +12,7 @@ a folder for `classes` as well).
 3. Add two properties (your choice) and test them.
 4. Add two methods (your choice) and test them.
 ------------------*/
+
+class Building {}
+
+module.exports = Building;
