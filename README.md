@@ -36,8 +36,3 @@ Give yourself a grade for each question. Explain why you gave yourself that grad
 ### 3. Create the reverse linked list method
 - Grade: 
 - Explanation:
-
-### 4. Check matching parentheses
-- Grade: 
-- Explanation:
-

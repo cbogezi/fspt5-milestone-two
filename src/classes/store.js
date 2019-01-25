@@ -5,7 +5,7 @@ after you have completed the Building class!
 You will be equally evaluated on the
 quality of tests you write for this!
 
-1. Create a file named `__store.js` and
+1. Create a file named `_store.js` and
 add it to the `test` folder.
 2. Create a class named Store. Export it,
 and then import it into the test file.

@@ -5,7 +5,7 @@ after you have completed the Building class!
 You will be equally evaluated on the
 quality of tests you write for this!
 
-1. Create a file named `__apartment.js` and
+1. Create a file named `_apartment.js` and
 add it to the `test` folder.
 2. Create a class named Apartment. Export it,
 and then import it into the test file.

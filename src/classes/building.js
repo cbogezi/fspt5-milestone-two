@@ -2,7 +2,7 @@
 You will be equally evaluated on the
 quality of tests you write for this!
 
-1. Create a file named `__building.js` and
+1. Create a file named `_building.js` and
 add it to the `test` folder.
 2. Create a class named Building. Export it,
 and then import it into the test file. Hint: make
