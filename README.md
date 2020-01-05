@@ -1,6 +1,6 @@
 # Full Stack Development Test - Week Two
 
-This assessment tests your understanding of classes, testing, and list-type data structures.
+This assessment tests your understanding of classes, testing, HOFs and list-type data structures.
 
 ## Guidelines
 
@@ -43,7 +43,12 @@ Give yourself a grade for each question. Explain why you gave yourself that grad
 - Grade:
 - Explanation:
 
-### 3. Create the reverse linked list method
+### 3. Use HOFs from the Array prototype
+
+- Grade:
+- Explanation:
+
+### 4. Create the reverse linked list method
 
 - Grade:
 - Explanation:
