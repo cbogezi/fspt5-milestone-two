@@ -9,8 +9,9 @@ describe("Building", () => {
     building = new Building();
   });
   describe("Building", () => {
-    // it('should be a class', () => {
-    // });
+    it("should be a class", () => {
+      expect(isClass(Building)).to.be.true;
+    });
     // it('should have properties', () => {
     // });
     // it('should have methods', () => {
