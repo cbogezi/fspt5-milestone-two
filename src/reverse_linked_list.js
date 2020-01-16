@@ -8,6 +8,12 @@ Hint: The code has already been started
 for you. DRAW THIS OUT and look at the test for
 the example. You don't need to use the insertAfter
 method in your solution.
+
+IMPORTANT: If you want to try this exercise without
+the help of the pseudo code that's already written, 
+remove all the comments from the reverseList() method and
+start from scratch! If you do so, make sure to let
+your teacher know.
 ------------------*/
 
 class Node {
