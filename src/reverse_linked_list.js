@@ -60,9 +60,9 @@ class LinkedList {
     // Create a variable to store the "previous" node. Since we start at the head, "previous" should be null when initialized (because there's nothing "before" the head)
     // while there is a node to visit (so, node exists)
     // create a var to save the location of the next node, or you will lose it!!!
-    // reverse the pointer, it should now point to the "previous" node
-    // increment previous to current node
-    // increment node to next node (you saved it) or null at end of list
+    // reverse the current node's "next" pointer, it should now point to the "previous" node
+    // update previous node to be the current node
+    // update current node to the next node (you saved it) or null at end of list
     // end of while
     // make the head point to what was, until now, the tail
     // make the tail point to what was initially the head
