@@ -1,0 +1,125 @@
+[33mcommit 5c730076c280ce5deaec3b173eafc3c051219d69[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Germinal Camps <gcampsbarjau@gmail.com>
+Date:   Thu Jan 28 14:12:43 2021 +0100
+
+    Update node.js.yml
+
+[33mcommit edb6a06274f9dcaead20d1d0b963fcc2ecc27425[m
+Author: Germinal Camps <gcampsbarjau@gmail.com>
+Date:   Sun Jan 24 10:32:14 2021 +0100
+
+    Update node.js.yml
+
+[33mcommit 2c2ee5d184938e5c33309de661a9cd9f9d0a2629[m
+Author: Germinal Camps <gcampsbarjau@gmail.com>
+Date:   Sun Jan 24 10:30:24 2021 +0100
+
+    Added GitHub action to test
+
+[33mcommit 6dfa4226e4d38d0d3a5e7532df854e682d9ac78f[m
+Author: Germinal Camps <gcampsbarjau@gmail.com>
+Date:   Sun Jan 19 10:30:50 2020 +0100
+
+    Rephrase a couple steps on reverse linked list
+
+[33mcommit 04836ca50eacdba25c26afe810cc1ba4641f955b[m
+Author: Germinal Camps <gcampsbarjau@gmail.com>
+Date:   Thu Jan 16 22:13:06 2020 +0100
+
+    Clarifications on test instructions
+
+[33mcommit 107ff32966f0a84e71db6221d19d3008d8de0907[m
+Author: Germinal Camps <gcampsbarjau@gmail.com>
+Date:   Thu Jan 16 17:08:54 2020 +0100
+
+    More instructions on Reversed Linked List
+
+[33mcommit 4ef604c23f547fb0fcb46c0d7f257fe9bd056605[m
+Author: Germinal Camps <gcampsbarjau@gmail.com>
+Date:   Sun Jan 12 22:39:37 2020 +0100
+
+    Changed some phrasing of comments to be more accurate
+
+[33mcommit 6135c244845a4b96c74fa91546656dd057bca4d9[m
+Author: Germinal Camps <gcampsbarjau@gmail.com>
+Date:   Sun Jan 5 12:04:42 2020 +0100
+
+    Removed Store class, added HOFs exercice instead
+
+[33mcommit 11434b2004615569ff5da2833ac8c6b316c10ed1[m
+Author: Germinal Camps <gcampsbarjau@gmail.com>
+Date:   Wed Aug 28 17:53:58 2019 +0200
+
+    Simplified Reverse Linked List approach to solution, and guide
+
+[33mcommit ae9089af2d5e3c72435f4648c6e1e7068517a0a2[m
+Author: Pooja Maheshwari <pooja.maheshwari247@gmail.com>
+Date:   Fri Jun 21 09:00:33 2019 +0200
+
+    simplified imports and added test frames
+
+[33mcommit 8bc7ae08692ea31cbdbcd93a03b7a650287cb1f2[m
+Author: Dan Kostiuk <dank216@gmail.com>
+Date:   Mon May 13 14:56:21 2019 +0200
+
+    CodeOp rebranding
+
+[33mcommit a357cfc40eafcf99b84f185682ca292f0b506232[m
+Author: Dan Kostiuk <dank216@gmail.com>
+Date:   Tue Mar 12 12:19:16 2019 +0100
+
+    Adding pre-commit to project
+
+[33mcommit 2a3242962d1f30b3f25668edf98a79014eccf751[m
+Author: Dan Kostiuk <dank216@gmail.com>
+Date:   Fri Jan 25 16:20:39 2019 +0100
+
+    Added utilities class in order to properly test 'isClass'
+
+[33mcommit 28dff9d9e3492c473b5fec1c917ca8d03192da6b[m
+Author: Dan Kostiuk <dank216@gmail.com>
+Date:   Fri Jan 25 11:24:25 2019 +0100
+
+    Remove 'Matching parenthesis' question from readme as it is removed; fix double underscore typos in problem instructions
+
+[33mcommit 0dceb73fd97c076035672101a517d858fc103690[m
+Author: Krista Moroder <kmoroder@gmail.com>
+Date:   Fri Oct 26 12:52:58 2018 +0200
+
+    update license
+
+[33mcommit edbc76a0f1059210493234691734cd09d089b3a3[m
+Author: Krista Moroder <kmoroder@gmail.com>
+Date:   Wed Oct 17 12:57:57 2018 +0200
+
+    add pseudocode for reverse list
+
+[33mcommit 4f298271bcb9a0f047505fadc7822cda66e0ea63[m
+Author: Krista Moroder <kmoroder@gmail.com>
+Date:   Tue Oct 16 16:40:18 2018 +0200
+
+    remove question, give support for classes
+
+[33mcommit 1b1e2086b2f3dc1ad41c1baadf396a9910f034c8[m
+Author: Krista Moroder <kmoroder@gmail.com>
+Date:   Fri Oct 12 10:15:43 2018 +0200
+
+    add export line to linked list
+
+[33mcommit d4b2ac8c452986658a20f26f61d22d0f15e0defa[m
+Author: Krista Moroder <kmoroder@gmail.com>
+Date:   Thu Oct 11 17:45:27 2018 +0200
+
+    finish matching parens
+
+[33mcommit e445c6bfc1004acbe916285a311f2e72950fb03c[m
+Author: Krista Moroder <kmoroder@gmail.com>
+Date:   Thu Oct 11 16:59:16 2018 +0200
+
+    add starter code for reverse linked list
+
+[33mcommit f22fa2bbe0d2f32410536150d26fc83ed3b653e7[m
+Author: Krista Moroder <kmoroder@gmail.com>
+Date:   Thu Oct 11 11:43:27 2018 +0200
+
+    first commit - adds basic structure and info

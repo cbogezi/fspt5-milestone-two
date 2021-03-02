@@ -66,6 +66,20 @@ class LinkedList {
     // end of while
     // make the head point to what was, until now, the tail
     // make the tail point to what was initially the head
+
+    let node = this.head;
+    let initialHead = this.head;
+    let preVode = null;
+
+    while (node) {
+      let nextNode = node.next;
+      node.next = preNode;
+      prevNode = node;
+      node = nodeNext;
+    }
+
+    this.head = this.tail;
+    this.tail = initialHead;
   }
 }
 
